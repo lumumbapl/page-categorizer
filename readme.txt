@@ -50,6 +50,7 @@ This section describes how to install the plugin and get it working.
 == Screenshots ==
 
 1. Page Edit Screen
+2. 'Categories' link added under Pages link
  
 == Frequently Asked Questions ==
 
