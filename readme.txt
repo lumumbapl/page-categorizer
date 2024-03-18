@@ -5,7 +5,7 @@ Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
 Requires at least: 3.3
 Tested up to: 6.5
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,11 +76,11 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Changelog ==
 
-= Version 1.2 =
+= Version 1.3 =
 * Added code is to prevent unauthorized access or direct execution of the file. 
 * Updated readme file
 
-= Version 1.1 =
+= Version 1.12 =
 * Initial Plugin Release
 * Fixed the issue Break other plugins wp-query
 
@@ -90,5 +90,5 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Upgrade Notice ==
 
-= 1.2 =
+= 1.3 =
 * A change since the previous version.
