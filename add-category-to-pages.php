@@ -3,7 +3,7 @@
  * Plugin URI: https://thewphosting.com/add-categories-tags-pages-wordpress/
  * Description: Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
  * Author: a.ankit
- * Version: 1.2
+ * Version: 1.3
  * Author URI: https://thewphosting.com
  * License:  GPL2
  * Text Domain: add-category-to-pages
