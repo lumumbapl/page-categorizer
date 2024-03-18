@@ -1,4 +1,4 @@
-# add-category-to-pages
+# Add Category to Pages
 
 The "Add Categories to Pages" plugin is a simple yet powerful solution that enables WordPress users to categorize their Pages using the existing Category and Tag taxonomies. By default, WordPress only allows categorizing Posts, but this plugin extends the functionality to include Pages as well.
 
