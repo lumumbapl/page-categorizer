@@ -1,10 +1,13 @@
 === Add Category to Pages ===
 Contributors: a.ankit, lumiblog
 Donate link: https://wpcorner.co/donate
-Tags: category, category in page, tag in page, page archive, pages  
+Tags: category, category in page, tag in page, page archive, pages
+Requires PHP: 7.0
 Requires at least: 3.3
 Tested up to: 6.5
 Stable tag: 1.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easily add Categories to WordPress Pages.
 
@@ -17,6 +20,7 @@ This plugin allows you to add the power of Wordpress Taxonomy to Wordpress Pages
 Just activate the plugin and it will add category and tag support to Wordpress Pages
 
 = Features =
+
 * Adds Post Categories to Pages
 * Adds Post Tags to Pages
 * Lets you display List of Pages based on Categories
@@ -25,20 +29,17 @@ Just activate the plugin and it will add category and tag support to Wordpress P
 The plugin is based on this [Tutorial](https://thewphosting.com/add-categories-tags-pages-wordpress/) 
 
 = What are the benefits ?  = 
+
 There are various benefits of adding category to Pages YOu can
+
 * Embed a Category Based List of Pages 
 * Create a Tag based archive for Pages
 * Create a Category based Archive for Pages
 * Hide Pages belonging to certain Category.. and Lots More
 
-
-
 In case you face any problem, contact us via the [Forums](). 
 
-
-
 == Changelog ==
-
 
 = Version 1.1 =
 * Initial Plugin Release
@@ -58,13 +59,10 @@ This section describes how to install the plugin and get it working.
 4. You can now add Categories to Pages just like you do it in Posts
 5. Enjoy. Eat Drink and be Merry !!
 
-
 == Screenshots ==
 
 1. Page Edit Screen
  
-
-
 == Frequently Asked Questions ==
 
 The FAQ section will be updated in next release. 
