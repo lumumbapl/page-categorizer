@@ -1,11 +1,11 @@
-=== Add Category to Pages ===
-Contributors: a.ankit, lumiblog
+=== Page Categorizer ===
+Contributors: wpcornerke, lumiblog
 Donate link: https://wpcorner.co/donate
 Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
-Requires at least: 3.3
-Tested up to: 6.5
-Stable tag: 1.3
+Requires at least: 5.4
+Tested up to: 6.6.1
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Easily add Categories to WordPress Pages.
 
 == Description ==
 
-The **"Add Categories to Pages"** plugin is a simple yet powerful solution that enables WordPress users to categorize their Pages using the existing Category and Tag taxonomies. By default, WordPress only allows categorizing Posts, but this plugin extends the functionality to include Pages as well.
+The **"Page Categorizer"** plugin is a simple yet powerful solution that enables WordPress users to categorize their Pages using the existing Category and Tag taxonomies. By default, WordPress only allows categorizing Posts, but this plugin extends the functionality to include Pages as well.
 
 With this plugin activated, users can easily assign Categories and Tags to their Pages, just like they would for Posts. This feature enhances the organization and structure of website content, making it easier for visitors to navigate and find relevant information.
 
@@ -76,19 +76,10 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Changelog ==
 
-= Version 1.3 =
-* Added code is to prevent unauthorized access or direct execution of the file. 
-* Updated readme file
-
-= Version 1.12 =
+= Version 1.0.0 =
 * Initial Plugin Release
-* Fixed the issue Break other plugins wp-query
-
-= Version 1.0 =
-* Initial Plugin Release
-* Adds Post Categories and Tags to Pages in WordPress
 
 == Upgrade Notice ==
 
-= 1.3 =
+= 1.0.1 =
 * A change since the previous version.
