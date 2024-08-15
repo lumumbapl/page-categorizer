@@ -1,0 +1,77 @@
+.pc-admin-page {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.pc-admin-content {
+    display: flex;
+    margin-top: 20px;
+}
+
+.pc-main-content {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.pc-sidebar {
+    width: 300px;
+}
+
+.pc-welcome-panel {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.pc-video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.pc-video-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pc-sidebar-box {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.pc-sidebar-box h3 {
+    margin-top: 0;
+}
+
+.pc-sidebar-box .button {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.pc-video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.pc-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
