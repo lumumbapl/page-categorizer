@@ -15,17 +15,6 @@
 if (!defined('ABSPATH')) {
     exit;
 }
-// Include the options page
-require_once plugin_dir_path(__FILE__) . 'options.php';
-
-// Enqueue admin styles
-function pc_enqueue_admin_styles($hook) {
-    if ('toplevel_page_page-categorizer-settings' !== $hook) {
-        return;
-    }
-    wp_enqueue_style('pc-admin-styles', plugin_dir_url(__FILE__) . 'includes/style.css');
-}
-add_action('admin_enqueue_scripts', 'pc_enqueue_admin_styles');
 
 function pc_register_taxonomies() {
     register_taxonomy_for_object_type('post_tag', 'page');
@@ -43,4 +32,3 @@ function pc_modify_archive_query($wp_query) {
     }
 }
 add_action('pre_get_posts', 'pc_modify_archive_query');
-?>
