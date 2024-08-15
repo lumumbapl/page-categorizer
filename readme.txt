@@ -43,7 +43,7 @@ This section describes how to install the plugin and get it working.
 
 1. Unzip the archive and upload the entire folder to the /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Now Visit the Page editing Screes
+3. Now Visit the Page editing Screen
 4. You can now add Categories to Pages just like you do it in Posts
 5. Enjoy. Eat Drink and be Merry !!
 
