@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Page Categorizer
- * Plugin URI: https://wpcorner.co/plugins/page-categorizer
+ * Plugin URI: https://github.com/wpcorner/page-categorizer
  * Description: Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
  * Author: WP Corner
- * Version: 1.0.0
- * Author URI: https://wpcorner.co
+ * Version: 1.0.1
+ * Author URI: https://lumumbas.blog/
  * License:  GPL2
  * Text Domain: page-categorizer
  * Requires at least: 5.7
