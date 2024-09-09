@@ -1,6 +1,6 @@
 === Page Categorizer ===
 Contributors: wpcornerke, lumiblog
-Donate link: https://wpcorner.co/donate
+Donate link: https://github.com/sponsors/lumumbapl
 Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
 Requires at least: 5.4
