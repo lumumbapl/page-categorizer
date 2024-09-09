@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Page Categorizer
- * Plugin URI: https://github.com/wpcorner/page-categorizer
+ * Plugin URI: https://github.com/lumumbapl/page-categorizer
  * Description: Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
  * Author: WP Corner
  * Version: 1.0.1
