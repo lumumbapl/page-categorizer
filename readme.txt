@@ -77,9 +77,17 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 == Changelog ==
 
 = Version 1.0.1 =
+* Plugin release after the 1st review from Plugins Review Team
+* Changed the function names to use a more unique prefix:
+  - `pc_register_taxonomies` is now `pagecate_register_taxonomies`
+  - `pc_modify_archive_query` is now `pagecate_modify_archive_query`
+* Updated the Version number to `1.0.1` to reflect the changes.
+* The `add_action` calls have been updated to use the new function names.
+
+= Version 1.0.0 =
 * Initial Plugin Release
 
 == Upgrade Notice ==
 
-= 1.0.1 =
+= 1.0.2 =
 * A change since the previous version.
