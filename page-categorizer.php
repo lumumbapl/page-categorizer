@@ -11,18 +11,19 @@
  * Requires at least: 5.7
  * Requires PHP: 5.6
  */
+
 // If this file is called directly, abort.
 if (!defined('ABSPATH')) {
     exit;
 }
 
-function pc_register_taxonomies() {
+function pagecate_register_taxonomies() {
     register_taxonomy_for_object_type('post_tag', 'page');
     register_taxonomy_for_object_type('category', 'page');
 }
-add_action('init', 'pc_register_taxonomies');
+add_action('init', 'pagecate_register_taxonomies');
 
-function pc_modify_archive_query($wp_query) {
+function pagecate_modify_archive_query($wp_query) {
     if ($wp_query->is_main_query() && !is_admin() && ($wp_query->is_category() || $wp_query->is_tag())) {
         $my_post_array = array('post', 'page');
         if ($wp_query->get('category_name') || $wp_query->get('cat'))
@@ -31,4 +32,4 @@ function pc_modify_archive_query($wp_query) {
             $wp_query->set('post_type', $my_post_array);
     }
 }
-add_action('pre_get_posts', 'pc_modify_archive_query');
+add_action('pre_get_posts', 'pagecate_modify_archive_query');
