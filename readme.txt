@@ -76,7 +76,7 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Changelog ==
 
-= Version 1.0.0 =
+= Version 1.0.1 =
 * Initial Plugin Release
 
 == Upgrade Notice ==
