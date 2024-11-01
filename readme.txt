@@ -4,8 +4,8 @@ Donate link: https://github.com/sponsors/lumumbapl
 Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
 Requires at least: 5.4
-Tested up to: 6.6.1
-Stable tag: 1.1.0
+Tested up to: 6.7
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,21 +76,10 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Changelog ==
 
-= Version 1.1.0 =
-* Official initial plugin release
-
-= Version 1.0.1 =
-* Plugin release after the 1st review from Plugins Review Team
-* Changed the function names to use a more unique prefix:
-  - `pc_register_taxonomies` is now `pagecate_register_taxonomies`
-  - `pc_modify_archive_query` is now `pagecate_modify_archive_query`
-* Updated the Version number to `1.0.1` to reflect the changes.
-* The `add_action` calls have been updated to use the new function names.
-
-= Version 1.0.0 =
-* Initial Plugin Release
+= Version 1.1.1 =
+* WordPress 6.7 compatibility test passed
 
 == Upgrade Notice ==
 
 = 1.1.1 =
-* A change since the previous version.
+* WordPress 6.7 compatibility test passed
