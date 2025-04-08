@@ -4,8 +4,8 @@ Donate link: https://github.com/sponsors/lumumbapl
 Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
 Requires at least: 5.4
-Tested up to: 6.7
-Stable tag: 1.2.0-beta.1
+Tested up to: 6.8
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,6 +75,10 @@ No, the plugin creates separate taxonomies for Pages, leaving your existing Post
 Yes, the plugin is designed to work with any WordPress theme. It integrates seamlessly with the WordPress admin interface and follows the WordPress coding standards, ensuring compatibility with most themes and plugins.
 
 == Changelog ==
+
+= Version 1.2.0 =
+* WordPress 6.8 compatibility test passed
+* PHP 8.4 compatibility test passed
 
 = Version 1.1.1 =
 * WordPress 6.7 compatibility test passed
