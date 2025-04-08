@@ -85,5 +85,6 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Upgrade Notice ==
 
-= 1.1.1 =
-* WordPress 6.7 compatibility test passed
+= Version 1.2.0 =
+* WordPress 6.8 compatibility test passed
+* PHP 8.4 compatibility test passed
