@@ -1,11 +1,11 @@
 === Page Categorizer ===
-Contributors: lumiblog, wpcornerke 
+Contributors: lumiblog, divibanks, sebu4, mosescursor
 Donate link: https://github.com/sponsors/lumumbapl
 Tags: category, category in page, tag in page, page archive, pages
 Requires PHP: 7.0
 Requires at least: 5.4
 Tested up to: 6.7
-Stable tag: 1.1.1
+Stable tag: 1.2.0-beta.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
