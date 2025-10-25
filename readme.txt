@@ -1,11 +1,11 @@
 === Page Categorizer ===
 Contributors: lumiblog, divibanks, sebu4, mosescursor
-Donate link: https://github.com/sponsors/lumumbapl
+Donate link: https://lumumbas.blog/support-wp-plugins
 Tags: category, category in page, tag in page, page archive, pages
-Requires PHP: 7.0
-Requires at least: 5.4
+Requires PHP: 7.4
+Requires at least: 6.0
 Tested up to: 6.8
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,10 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Changelog ==
 
+= Version 1.3.0 =
+* UPDATE: Plugin screenshots
+* UPDATE: Plugin information
+
 = Version 1.2.0 =
 * WordPress 6.8 compatibility test passed
 * PHP 8.4 compatibility test passed
@@ -85,6 +89,6 @@ Yes, the plugin is designed to work with any WordPress theme. It integrates seam
 
 == Upgrade Notice ==
 
-= Version 1.2.0 =
-* WordPress 6.8 compatibility test passed
-* PHP 8.4 compatibility test passed
+= Version 1.3.0 =
+* UPDATE: Plugin screenshots
+* UPDATE: Plugin information
