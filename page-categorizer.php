@@ -1,16 +1,27 @@
 <?php
 /**
- * Plugin Name: Page Categorizer
- * Plugin URI: https://github.com/lumumbapl/page-categorizer
- * Description: Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
- * Author: Patrick Lumumba
- * Version: 1.2.0
- * Author URI: https://lumumbas.blog/
- * License:  GPL2
- * Text Domain: page-categorizer
- * Requires at least: 5.7
- * Requires PHP: 5.6
+ * Plugin Name:       Page Categorizer
+ * Plugin URI:        https://lumumbas.blog/plugins/page-categorizer/
+ * Description:       Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
+ * Version:           1.3.0
+ * Requires at least: 6.0
+ * Requires PHP:      7.4
+ * Author:            Patrick Lumumba
+ * Author URI:        https://lumumbas.blog
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       page-categorizer
+ * Domain Path:       /languages
  */
+
+/**
+* Page Categorizer
+*
+* Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
+*
+* @package	page-categorizer
+* @since	1.0
+*/
 
 // If this file is called directly, abort.
 if (!defined('ABSPATH')) {
