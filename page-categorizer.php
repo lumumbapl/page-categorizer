@@ -3,7 +3,7 @@
  * Plugin Name:       Page Categorizer
  * Plugin URI:        https://lumumbas.blog/plugins/page-categorizer/
  * Description:       Easily add Categories and Tags to Pages. Simply activate and visit the Page Edit screen.
- * Version:           1.3.0
+ * Version:           1.4.0
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Patrick Lumumba
@@ -11,7 +11,6 @@
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       page-categorizer
- * Domain Path:       /languages
  */
 
 /**
